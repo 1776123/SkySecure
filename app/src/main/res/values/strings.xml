@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SkySecure</string>
+    <string name="check_activity">Check Activity</string>
+    <string name="the_new_wave_of_security">The New Wave of Security</string>
+    <string name="todo">TODO</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoiemFlZW1xIiwiYSI6ImNrbnc1cTRhZDBwOXcybmxnNGRnczF3bTcifQ.ig-7m6YmpDjb6VY-sZdNqA</string>
+</resources>
