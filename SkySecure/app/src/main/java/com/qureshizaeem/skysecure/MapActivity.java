@@ -24,8 +24,9 @@ import com.mapbox.mapboxsdk.maps.Style;
 //import com.mapbox.services.android.telemetry.location.LocationEngineListener;
 
 
-
+import java.util.ArrayList;
 import java.util.List;
+import java.util.concurrent.LinkedTransferQueue;
 
 public class MapActivity extends AppCompatActivity implements OnMapReadyCallback, /*LocationEngineListener,*/ PermissionsListener {
     private MapView mapView;
@@ -60,14 +61,12 @@ public class MapActivity extends AppCompatActivity implements OnMapReadyCallback
 
                         // Map is set up and the style has loaded. Now you can add data or make other map adjustments
 
-                        LatLng whiteHouseLatLng = new LatLng(38.8976763, -77.0365298);
 
-                        /*whiteHouseMarker = */mapboxMap.addMarker(new MarkerOptions().position(whiteHouseLatLng));
-
+                        ArrayList<LatLng> coor = MainActivity.getCoordinates();
+                        for(LatLng c : coor){
+                            mapboxMap.addMarker(new MarkerOptions().position(c));
+                        }
                         //whiteHousePosition = Point.fromLngLat(whiteHouseLatLng.getLongitude(), whiteHouseLatLng.getLatitude());
-
-                        LatLng fbi = new LatLng(38.8952135, -77.0249586);
-                        mapboxMap.addMarker(new MarkerOptions().position(fbi));
                     }
                 });
 

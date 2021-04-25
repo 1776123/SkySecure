@@ -6,7 +6,7 @@
     </shared>
   </component>
   <component name="AndroidLogFilters">
-    <option name="TOOL_WINDOW_LOG_LEVEL" value="error" />
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="warn" />
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
@@ -16,7 +16,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[Pixel_4_XL_API_30]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[Pixel_4_API_30_3]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -53,8 +53,8 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Pixel_4_XL_API_30" />
-    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2021-04-25T03:47:47.001Z" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Pixel_4_API_30_3" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2021-04-25T05:09:13.755Z" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -171,10 +171,10 @@
     </state>
     <state x="372" y="87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1619230855938" />
     <state x="744" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1400/2560.261.1920.1040@0.0.2560.1400" timestamp="1619317040255" />
-    <state x="188" y="194" width="2184" height="1013" key="AVDManager" timestamp="1619319281622">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state x="94" y="94" width="1092" height="492" key="AVDManager" timestamp="1619328181915">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="94" y="94" width="1092" height="492" key="AVDManager/0.0.1280.680@0.0.1280.680" timestamp="1619237384354" />
+    <state x="94" y="94" width="1092" height="492" key="AVDManager/0.0.1280.680@0.0.1280.680" timestamp="1619328181915" />
     <state x="188" y="194" width="2184" height="1013" key="AVDManager/0.0.2560.1400/2560.261.1920.1040@0.0.2560.1400" timestamp="1619319281622" />
     <state x="222" y="95" key="AndroidCreateResourceFileDialog" timestamp="1619302281791">
       <screen x="0" y="0" width="1280" height="680" />
@@ -188,25 +188,25 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="422" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1619312409038" />
-    <state width="1234" height="538" key="GridCell.Tab.0.bottom" timestamp="1619322008613">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state width="1237" height="268" key="GridCell.Tab.0.bottom" timestamp="1619329077037">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="83" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1619300859286" />
+    <state width="1237" height="268" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1619329077037" />
     <state width="1234" height="538" key="GridCell.Tab.0.bottom/0.0.2560.1400/2560.261.1920.1040@0.0.2560.1400" timestamp="1619322008613" />
-    <state width="1234" height="538" key="GridCell.Tab.0.center" timestamp="1619322008613">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state width="1237" height="268" key="GridCell.Tab.0.center" timestamp="1619329077037">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="83" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1619300859285" />
+    <state width="1237" height="268" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1619329077037" />
     <state width="1234" height="538" key="GridCell.Tab.0.center/0.0.2560.1400/2560.261.1920.1040@0.0.2560.1400" timestamp="1619322008613" />
-    <state width="1234" height="538" key="GridCell.Tab.0.left" timestamp="1619322008613">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state width="1237" height="268" key="GridCell.Tab.0.left" timestamp="1619329077037">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="83" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1619300859285" />
+    <state width="1237" height="268" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1619329077037" />
     <state width="1234" height="538" key="GridCell.Tab.0.left/0.0.2560.1400/2560.261.1920.1040@0.0.2560.1400" timestamp="1619322008613" />
-    <state width="1234" height="538" key="GridCell.Tab.0.right" timestamp="1619322008613">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state width="1237" height="268" key="GridCell.Tab.0.right" timestamp="1619329077037">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="83" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1619300859285" />
+    <state width="1237" height="268" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1619329077037" />
     <state width="1234" height="538" key="GridCell.Tab.0.right/0.0.2560.1400/2560.261.1920.1040@0.0.2560.1400" timestamp="1619322008613" />
     <state x="688" y="309" key="SettingsEditor" timestamp="1619315146898">
       <screen x="0" y="0" width="2560" height="1400" />
