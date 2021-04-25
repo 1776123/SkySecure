@@ -29,6 +29,8 @@ allprojects {
                 password = project.properties['MAPBOX_DOWNLOADS_TOKEN'] ?: ""
             }
         }
+        mavenCentral()
+        maven { url "http://oss.sonatype.org/content/repositories/snapshots/" }
     }
 }
 
