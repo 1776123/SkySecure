@@ -3,7 +3,9 @@ package com.qureshizaeem.skysecure;
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.Intent;
 import android.os.Bundle;
+import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
 
@@ -39,5 +41,10 @@ public class MainActivity extends AppCompatActivity {
                     public void onCancelled(DatabaseError databaseError) {
                     }
                 });
+    }
+
+    public void clickB1(View view) {
+        Intent intent = new Intent(this, MapActivity.class);
+        startActivity(intent);
     }
 }

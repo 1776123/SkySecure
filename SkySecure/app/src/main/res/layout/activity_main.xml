@@ -33,6 +33,7 @@
         android:contentDescription="@string/todo" />
     <com.google.android.material.button.MaterialButton
         android:id="@+id/b1"
+        android:onClick="clickB1"
         android:layout_width="300dp"
         android:layout_height="wrap_content"
         android:text="@string/check_activity"
