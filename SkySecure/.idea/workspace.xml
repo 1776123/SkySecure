@@ -15,7 +15,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[R9PN70T341J]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -43,7 +43,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1raaQ3ncQlGCWqqvxgwZLnmB2yE" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -56,11 +56,11 @@
     <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2021-04-24T04:05:29.096Z" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Weedy" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -153,6 +153,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="159" y="87" key="#PSD/0.0.1280.680@0.0.1280.680" timestamp="1619295890267" />
+    <state x="980" y="149" key="#app" timestamp="1619315167055">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="980" y="149" key="#app/0.0.2560.1400/2560.261.1920.1040@0.0.2560.1400" timestamp="1619315167055" />
     <state x="372" y="87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1619230855938">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -189,10 +193,11 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1237" height="83" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1619300859285" />
-    <state x="108" y="0" key="SettingsEditor" timestamp="1619312459667">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state x="688" y="309" key="SettingsEditor" timestamp="1619315146898">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="108" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1619312459667" />
+    <state x="688" y="309" key="SettingsEditor/0.0.2560.1400/2560.261.1920.1040@0.0.2560.1400" timestamp="1619315146898" />
     <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1619235801333">
       <screen x="0" y="0" width="1280" height="680" />
     </state>

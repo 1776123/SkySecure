@@ -34,7 +34,6 @@ public class MainActivity extends AppCompatActivity {
                         //finderobject is stuff from log in firebase
                         String z = dataSnapshot.child("coord0").getValue(String.class);
                         textView.setText("Weed Percentage: " + z);
-
                     }
                     @Override
                     public void onCancelled(DatabaseError databaseError) {
